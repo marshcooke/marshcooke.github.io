@@ -1,1 +1,19 @@
+#container {
+	width: 760px;
+	margin: 40px auto 60px;
+}
 
+a:link {
+	color: #A05DCD;
+	text-decoration: none;
+}
+
+a:visited {
+	color: #EFC12A;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #8015D1;
+	text-decoration: underline;
+}
